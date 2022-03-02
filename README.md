@@ -4,9 +4,6 @@ CS has operations in several cities and countries, delivering thousands of order
 
 In this technical test you will be creating a machine learning model to make these estimation. As we internally build our machine learning solutions using python, we ask you to do the same in this technical test. However you are free to use the libraries you are most comfortable with.
 
-## Before you begin ##
-You will need to create a new repository and invite @ThomasSve and @Camiloez as collaborators.
-
 ## Data
 
 In this repository, we have included data representing the order, shopper and the store branch. 
